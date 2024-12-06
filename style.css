@@ -341,10 +341,7 @@ nav .fa-solid {
 
 @media only screen and (max-width:1000px) {
 
-    .myimage {
-        height: 100vh;
-    }
-
+   
     nav {
         width: 715px;
     }
